@@ -7,7 +7,7 @@ logging:
 server:
   port: 8080
   servlet:
-    context-path: /finlandiaServices
+    context-path: /grupoReyServices
 ---
 keycloak:
   enabled: true
