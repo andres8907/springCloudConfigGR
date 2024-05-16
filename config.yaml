@@ -12,9 +12,7 @@ server:
 keycloak:
   enabled: true
   bearer-only: true
-  auth-server-url: 
-https://aplpre.favorita.ec/iam
-
+  auth-server-url: https://aplpre.favorita.ec/iam
   resource: MCF-V2-WS
   realm: XTN
   public-client: true
